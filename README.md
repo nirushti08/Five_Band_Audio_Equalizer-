@@ -4,7 +4,7 @@ This Repository contains some brief information about designing a 5 - Band Audio
 
 ## Introduction
 An Equalizer is a device which has the ability to adjust the output of the different frequency bands for a given signal. These are widely used in Hi-Fi audio systems to get superior sound quality . We were asked to design a five Band Audio equalizer by only using analogue electronic components. In addition there were some tasks or like features that should be present in our Equalizer.
-
+![Example Image](path/to/image.png)
 Such like our device should be capable of manipulating gains of frequencies in following frequency bands.
   1. 20 Hz to 300 Hz
   2. 300 Hz to 1000 Hz
